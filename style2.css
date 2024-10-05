@@ -1,0 +1,39 @@
+header{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+.navigasi nav ul{
+    list-style: none;
+    padding: 0;
+}
+
+.navigasi nav ul li{
+    display: inline;
+    margin: 0 15px;
+}
+
+.navigasi nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+.navigasi1 nav ul{
+    list-style: none;
+    padding: 12px;
+}
+
+.navigasi1 nav ul li{
+    display: inline-grid;
+    margin: 0 15px;
+}
+
+.navigasi1 nav ul li a{
+    color: white;
+    text-decoration: none;
+    text-align: left;
+}
